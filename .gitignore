@@ -61,3 +61,7 @@ pkg
 # For vim:
 *.swp
 
+#eclipse file
+.settings
+.classpath
+
